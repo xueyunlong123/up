@@ -26,6 +26,8 @@ public class Test implements Serializable{
         System.out.println(Double.longBitsToDouble(0x405d1a7414a4d2b3L));
         long bit = Double.doubleToLongBits(l);
         System.out.println(Long.toHexString(bit));
-        System.out.println("程序员节日快乐哦".substring(7,8));
+
+
+
     }
 }
